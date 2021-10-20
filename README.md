@@ -1,2 +1,2 @@
-# prueba
+# PlatziCurso
 PythonInt
